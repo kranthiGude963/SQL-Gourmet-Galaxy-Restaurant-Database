@@ -64,3 +64,10 @@ Data modeling
 Insert statements
 
 Basic querying
+
+
+Future Enhancements:
+- Add stored procedures
+- Add indexing strategy
+- Add advanced SELECT queries with JOINs
+- Add reporting queries for business insights
